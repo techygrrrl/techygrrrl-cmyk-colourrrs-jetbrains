@@ -10,7 +10,7 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="techygrrrl@proton.me" url="https://www.yourcompany.com">techygrrrl</vendor>
+    <vendor email="techygrrrl@proton.me" url="https://techygrrrl.stream">techygrrrl</vendor>
 
     <idea-version since-build="222" until-build="232.*"/>
 
