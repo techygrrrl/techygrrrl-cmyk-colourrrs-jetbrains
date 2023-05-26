@@ -10,7 +10,7 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="techygrrrl@proton.me" url="https://www.yourcompany.com">techygrrrl</vendor>
 
     <idea-version since-build="222" until-build="232.*"/>
 
@@ -18,8 +18,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Enter short description for your theme here.<br>
-    <em>most HTML tags may be used</em>
+    UI themes for your JB editors, by techygrrrl
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
