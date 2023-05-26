@@ -344,6 +344,29 @@
     "TextField.selectionForeground": "white",
     "TextPane.background": "dark400",
     "TextPane.caretForeground": "",
+
+    "List.Tag.background": "black",
+    "MainToolbar.background": "black",
+    "MainWindow.Tab.background": "black",
+    "MemoryIndicator.allocatedBackground": "black",
+    "MemoryIndicator.usedBackground": "red",
+    "Notification.background": "dark400",
+    "Notification.foreground": "white",
+    "Notification.borderColor": "pink",
+    "Notification.errorBackground": "dark200",
+    "Notification.errorBorderColor": "red",
+    "Notification.errorForeground": "white",
+    "Notification.MoreButton.background": "black",
+    "Notification.MoreButton.foreground": "pink",
+    "Notification.ToolWindow.informativeBackground": "black",
+    "Notification.ToolWindow.informativeForeground": "white",
+    "Notification.ToolWindow.informativeBorderColor": "blue",
+    "Notification.ToolWindow.errorBackground": "black",
+    "Notification.ToolWindow.errorForeground": "white",
+    "Notification.ToolWindow.errorBorderColor": "red",
+    "Notification.ToolWindow.warningBackground": "black",
+    "Notification.ToolWindow.warningForeground": "white",
+    "Notification.ToolWindow.warningBorderColor": "orange",
     "TextPane.foreground": "",
     "TextPane.inactiveBackground": "dark400",
     "TextPane.inactiveForeground": "",
@@ -410,5 +433,16 @@
     "window": "black",
     "windowBorder": "black",
     "windowText": "white"
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#BCB9C2",
+      "Actions.GreyInline": "#807694",
+      "Actions.GreyInline.Dark": "#2B223F",
+      "Actions.Red": "#EF1563",
+      "Actions.Blue": "#15AEEF",
+      "Actions.Green": "#15EFAE",
+      "Actions.Yellow": "#EF9815"
+    }
   }
 }
