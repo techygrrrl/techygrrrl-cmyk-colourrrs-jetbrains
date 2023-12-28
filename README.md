@@ -35,5 +35,6 @@ Here is a screenshot of the UI theme (and the colour scheme linked above) in GoL
 ## Changelog
 
 | Version | Date         | Details                |
-| ------- | ------------ | ---------------------- |
+|---------|--------------|------------------------|
+| 1.1.0   | Dec 28, 2023 | Support moar builds    |
 | 1.0.0   | May 25, 2023 | 🌈 Initial release! 🦄 |
