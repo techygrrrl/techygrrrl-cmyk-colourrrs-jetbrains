@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>CMYK colourrrs UI theme</strong> is a UI theme for Jetbrains IDE's.
+  <strong>CMYK colourrrs</strong> is a dark theme for JetBrains IDE's.
 </p>
 <p align="center">
   by <a href="https://techygrrrl.stream">techygrrrl</a>
@@ -13,28 +13,14 @@
 
 ---
 
-## UI Theme
-
-This repository contains the UI theme only. It does not include the colour scheme.
-
-To get the colour scheme, go to the [CMYK colourrrs](https://github.com/techygrrrl/techygrrrl-cmyk-colourrrs-jetbrains) colour scheme repository.
-
-## Usage
-
-Download the JAR from the releases.
-
-
-## Screenshots
-
-Here is a screenshot of the UI theme (and the colour scheme linked above) in GoLand.
+See more screenshots, and installation and usage instructions in the [wiki](https://github.com/techygrrrl/techygrrrl-cmyk-jetbrains-theme/wiki).
 
 ![](screenshot.png)
 
-<small>Icons in screenshot from [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)</small>
-
 ## Changelog
 
-| Version | Date         | Details                |
-|---------|--------------|------------------------|
-| 1.1.0   | Dec 28, 2023 | Support moar builds    |
-| 1.0.0   | May 25, 2023 | 🌈 Initial release! 🦄 |
+| Version | Date         | Details                                     |
+| ------- | ------------ | ------------------------------------------- |
+| 1.2.0   | Feb 9, 2024  | Bundle the colour scheme with the UI theme. |
+| 1.1.0   | Dec 28, 2023 | Support moar builds                         |
+| 1.0.0   | May 25, 2023 | 🌈 Initial release! 🦄                      |
