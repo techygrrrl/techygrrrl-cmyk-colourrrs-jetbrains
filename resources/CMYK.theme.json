@@ -1,6 +1,7 @@
 {
-  "name": "CMYK colourrrs UI",
+  "name": "CMYK",
   "author": "techygrrrl",
+  "editorScheme": "/CMYK_colourrrs.xml",
   "dark": true,
   "colors": {
     "white": "#FFFFFF",

@@ -12,7 +12,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="techygrrrl@proton.me" url="https://techygrrrl.stream">techygrrrl</vendor>
 
-    <idea-version since-build="222" until-build="240.*"/>
+    <idea-version since-build="222" />
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
@@ -32,6 +32,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="CMYK" path="/theme/CMYK.theme.json"/>
+        <themeProvider id="CMYK" path="/CMYK.theme.json"/>
     </extensions>
 </idea-plugin>
